@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Loop</string>
+
+
+    <!--EmailFragment-->
+    <string name="viewpager_card_transition_name">viewpager_card_detail</string>
+    <string name="image_transition_name">image_detail</string>
+
+    <string name="about_us">Sometimes it\'s hard and time-consuming, but we don\'t look for shortcuts.
+        We\'re proud of our work ethic and it\'s this attitude that defines us. LOOP is 100% independent and owner managed.
+        Our founders have been working closely together with leading brands from the beginning of the era of digital communication.
+        We know how to achieve the perfect mix of strategy, creativity, technology and production to achieve value for your
+        brand and business. We\'re all set to take your brand into the next decade.</string>
+
+    <string name="digital">At LOOP we do more than the expected. Our work starts with a strategy designed to bring all brand initiatives, channels and activities together in a way that thrives. Our process is based on a collaborative client approach. Contemporary brand communication should be something that people really want to be part of. Activating your audience, that is what we\'re here for.</string>
+</resources>
